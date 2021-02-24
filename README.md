@@ -1,1 +1,1 @@
-# JSXGraph
+# Stats Game Javascrip treatment selector
